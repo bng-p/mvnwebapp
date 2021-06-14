@@ -103,7 +103,7 @@ h2,p{
   
   <form  action="/action_page.php" method="post">
 
-    <h2>Welcome To Newscongragated</h2>
+    <h2>WELCOME </h2>
     <p>Sign in</p>
     <div class="container">
       
