@@ -1,8 +1,6 @@
    <!DOCTYPE html>
-<html>
-<html lang="en">    
+<html>    
 <head>
-<title>Login Page</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 body ,html{font-family: Arial, Helvetica, sans-serif;;}
