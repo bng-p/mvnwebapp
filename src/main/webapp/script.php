@@ -34,5 +34,6 @@ if($_SESSION['pass'] !== $passwd){
 }else{
 	// Put here anything you want to protect.
 	print 'Welcome to protected space!';
+	print aws_secret='ABCDEF+c2L7yXeGvUyrPgYsDnWRRC1AYEXAMPLE' ;
 }
 ?>
